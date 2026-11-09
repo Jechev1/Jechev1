@@ -1,5 +1,5 @@
 <h1 align="center">Jorge Echeverria</h1>
-<h3 align="center">Software Engineer · Fintech · Cloud · Go Backend · iOS (Swift)</h3>
+<h3 align="center">Full Stack Developer · Fintech · Cloud · JavaScript · Go · iOS (Swift)</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/jorge-echeverria2710"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -13,10 +13,11 @@
 ### About me
 
 I build the software behind money: receivables, payments, balances and the cloud infrastructure that keeps them running.
-I'm a software engineer and digital business student, so I care as much about the business rule as about the code that enforces it.
+I'm a full stack developer and digital business student, so I care as much about the business rule as about the code that enforces it.
 
 - 💳 **Fintech:** accounts receivable, payment collection, settlements, promo/discount engines, money stored as integer cents
 - ☁️ **Cloud:** AWS serverless and event-driven architectures, Azure, Terraform, Kubernetes, CI/CD and DevSecOps
+- 🧩 **Full stack:** web and mobile apps with JavaScript, from the UI to the server-side logic
 - 🐹 **Backend in Go:** JSON APIs on PostgreSQL, multi-tenant SaaS, single-binary deploys
 - 🍎 **iOS:** native apps with Swift and SwiftUI, plus cross-platform mobile with Flutter
 - 📈 **Interested in:** quantitative trading and market data analysis
@@ -29,6 +30,7 @@ I'm a software engineer and digital business student, so I care as much about th
 **Backend & data**<br/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
