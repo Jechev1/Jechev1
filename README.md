@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/jorge-echeverria2710"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jfloresjef365@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Based_in-New_York-111827?style=flat" alt="New York"/>
-  <img src="https://img.shields.io/badge/Languages-English_%7C_Spanish_%7C_German-111827?style=flat" alt="English | Spanish | German"/>
+  <img src="https://img.shields.io/badge/Languages-English_%7C_Spanish_%7C_German_(A2)-111827?style=flat" alt="English | Spanish | German (A2)"/>
 </p>
 
 ---
@@ -20,7 +20,7 @@ I'm a software engineer and digital business student, so I care as much about th
 - 🐹 **Backend in Go:** JSON APIs on PostgreSQL, multi-tenant SaaS, single-binary deploys
 - 🍎 **iOS:** native apps with Swift and SwiftUI, plus cross-platform mobile with Flutter
 - 📈 **Interested in:** quantitative trading and market data analysis
-- 🌍 **Languages:** English, Spanish and German
+- 🌍 **Languages:** English, Spanish and German (A2, working toward B1)
 
 ---
 
